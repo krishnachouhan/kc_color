@@ -32,7 +32,7 @@ Colors Package for Windows.
 
 ```
 
-import kc_colors
+import kc_color
 
-kc_colors._Warning_B('Deprecated use!')
+kc_color._Warning_B('Deprecated use!')
 ```
